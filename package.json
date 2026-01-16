@@ -6,5 +6,8 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "type": "commonjs"
+  "type": "commonjs",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
 }
